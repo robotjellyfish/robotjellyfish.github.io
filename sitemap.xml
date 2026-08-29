@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Root Project Landing -->
   <url>
     <loc>https://robotjellyfish.github.io/CatrinaStoner/</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- HTML Document Subpath -->
   <url>
-    <loc>https://robotjellyfish.github.io/CatrinaStoner/arthive.html</loc>
-    <lastmod>2026-03-30</lastmod>
+    <loc>https://robotjellyfish.github.io/CatrinaStoner/brainvomit.html</loc>
+    <lastmod>2026-08-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://robotjellyfish.github.io/CatrinaStoner/brainvomit.html</loc>
-    <lastmod>2026-03-30</lastmod>
+    <loc>https://robotjellyfish.github.io/CatrinaStoner/arthive.html</loc>
+    <lastmod>2026-08-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -31,3 +34,4 @@
     <priority>0.6</priority>
   </url>
 </urlset>
+
